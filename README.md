@@ -50,7 +50,8 @@ A GPS-integrated resource tracking system in collaboration with Grameenphone.
 - Developed **QR-based processing systems** for streamlined logistics in eCourier apps.
 - **Optimized UI/UX** for high engagement across multiple apps, using Figma and Flutter.
 - Created **REST API chains** for usability enhancements and seamless data flow.
-- Collaborated with Grameenphone to develop a **location-based tracking system** with GPS and OpenStreetMap integration.
+- Developed **location-based tracking system** with GPS and OpenStreetMap integration.
+- Data localization with sqflite | Hive
 
 ---
 
