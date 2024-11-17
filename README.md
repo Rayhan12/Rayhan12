@@ -15,6 +15,9 @@ I'm a dedicated software developer with a focus on Flutter for mobile applicatio
 **Backend Integrations**: Firebase Suite (Auth, Firestore, Messaging), Google SDK, Supabase  
 
 ---
+## 📌 **Flutter Packages**
+### [r_icon_pro](https://pub.dev/packages/r_icon_pro) 
+Simple and easy to use Icon pack for flutter with 1200+ rounded icons. 
 
 ## 📌 **Pinned Projects**
 
