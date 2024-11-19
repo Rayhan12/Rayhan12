@@ -21,7 +21,7 @@ Simple and easy to use Icon pack for flutter with 1200+ rounded icons.
 
 ## 📌 **Pinned Projects**
 
-### 1. [Sydney Disability Support](https://play.google.com/apps/internaltest/4701445233707351558)
+### 1. [Sydney Disability Support](https://play.google.com/store/apps/details?id=com.cuebites.sds&pcampaignid=web_share)
 Seamless access to essential disability services with real-time status tracking and booking.  
 **Tech Stack**: Flutter, Dart, Firebase, Google Places API  
 **Features**: Firebase-based authentication, real-time data synchronization, service management.  
