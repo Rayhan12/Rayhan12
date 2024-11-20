@@ -15,6 +15,17 @@ I'm a dedicated software developer with a focus on Flutter for mobile applicatio
 **Backend Integrations**: Firebase Suite (Auth, Firestore, Messaging), Google SDK, Supabase  
 
 ---
+## 📌 **Currently focusing on**
+I am currently leading my team to develop a Saas product for company from the Middle East. 
+Core requirement, personalized app for each tenant with their customisable branding.
+Apps will be generated and maintained from a single codebase. 
+It's exciting!!    
+
+#### 1. Flutter flavors 
+#### 2. CI/CD pipeline
+#### 3. Clean architecture
+
+
 ## 📌 **Flutter Packages**
 ### [r_icon_pro](https://pub.dev/packages/r_icon_pro) 
 Simple and easy to use Icon pack for flutter with 1200+ rounded icons. 
