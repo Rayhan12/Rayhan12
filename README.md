@@ -1,6 +1,26 @@
-# Hi, I'm Rayhanul Islam 👋
+<h1 align="center">Hi, I'm Rayhanul Islam 👋</h1>
 
-### Senior Mobile Engineer | Flutter | Native Integrations | AI-Powered Mobile Experiences
+<h3 align="center">Senior Mobile Engineer | Flutter | Native Integrations | AI-Powered Mobile Experiences</h3>
+
+<p align="center">
+  <a href="https://rayhanulislam.space/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-rayhanulislam.space-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/rayhanul-islam-234256205"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rayhanul%20Islam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://pub.dev/publishers/rayhanulislam.space/packages"><img alt="pub.dev" src="https://img.shields.io/badge/pub.dev-Flutter%20Packages-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+  <a href="mailto:rayhanul.mobile.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rayhanul.mobile.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white">
+  <img alt="GetX" src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="Fastlane" src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+</p>
 
 I build and ship production-grade mobile products, turning complex business requirements into reliable applications.
 
@@ -8,15 +28,17 @@ With **5+ years of commercial experience and 25+ products shipped**, I specializ
 
 Beyond application development, I'm interested in pushing Flutter into more advanced engineering domains: embedding Flutter into native applications, building reusable SDKs, developing dynamic UI experiences, and integrating AI agents capable of executing complex workflows safely.
 
-- 📍 Dhaka, Bangladesh
-- 🌍 Delivered products across 10+ international markets
-- 💼 Open to full-time, contract, and project-based opportunities
-- 🔭 Currently exploring Flutter Add-to-App, GenUI, and AI-powered mobile agents
-- 🧩 Open-source Flutter package author
+| 📍 Based in | 🌍 Reach | 🔭 Exploring | 🧩 Open source |
+|:--|:--|:--|:--|
+| Dhaka, Bangladesh | Delivered products across 10+ international markets | Flutter Add-to-App, GenUI, and AI-powered mobile agents | Flutter package author |
 
-
+---
 
 ## 🛠️ Technical Expertise
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Mobile Engineering**
 - Flutter & Dart
@@ -25,6 +47,9 @@ Beyond application development, I'm interested in pushing Flutter into more adva
 - Flutter Add-to-App & SDK Development
 - Platform Channels & Native Integrations
 - Multi-flavor & White-label Applications
+
+</td>
+<td valign="top" width="50%">
 
 **Architecture & Engineering**
 - Clean Architecture
@@ -35,6 +60,11 @@ Beyond application development, I'm interested in pushing Flutter into more adva
 - Dart Concurrency & Isolates
 - Performance Profiling & Optimization
 
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 **AI & Emerging Technologies**
 - In-App AI Agents
 - Provider-Agnostic LLM Integration
@@ -43,6 +73,9 @@ Beyond application development, I'm interested in pushing Flutter into more adva
 - AI Security Guardrails
 - Speech-to-Text & Text-to-Speech
 - Dynamic UI Generation
+
+</td>
+<td valign="top">
 
 **Backend & Integrations**
 - REST API Integration
@@ -54,6 +87,11 @@ Beyond application development, I'm interested in pushing Flutter into more adva
 - Google Maps & Location Services
 - Blockchain & Crypto Wallet Integration
 
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 **Development & Delivery**
 - Git & GitHub
 - GitHub Actions & Fastlane
@@ -61,17 +99,26 @@ Beyond application development, I'm interested in pushing Flutter into more adva
 - App Store Connect & Google Play Console
 - Postman, Android Studio & Xcode
 
+</td>
+<td valign="top">
+
 **Additional Technologies**
 - Python, Java, Kotlin, Swift, C++, SQL
 - Django, Flask, NestJS, React
 - MySQL, PostgreSQL, MongoDB, Firestore
 - Supabase, Figma
 
+</td>
+</tr>
+</table>
 
+---
 
 ## 🚀 Current Engineering Focus
 
-### 1. Flutter Add-to-App & SDK Architecture
+<details>
+<summary><b>1. Flutter Add-to-App & SDK Architecture</b>: reusable Flutter experiences embedded into existing native Android and iOS apps</summary>
+<br>
 
 Building reusable Flutter experiences that can be embedded into existing native Android and iOS applications.
 
@@ -85,7 +132,11 @@ Building reusable Flutter experiences that can be embedded into existing native 
 
 **Tech:** Flutter, Dart, Kotlin, Swift, Platform Channels
 
-### 2. Flutter GenUI & Dynamic Experiences
+</details>
+
+<details>
+<summary><b>2. Flutter GenUI & Dynamic Experiences</b>: interfaces that adapt to context and AI-driven interactions</summary>
+<br>
 
 Exploring dynamic user interfaces in Flutter, where application experiences can adapt to contextual information and AI-driven interactions.
 
@@ -95,7 +146,11 @@ Exploring dynamic user interfaces in Flutter, where application experiences can 
 - Integrating AI-driven interactions into existing Flutter applications.
 - Connecting generated interfaces with application workflows and native functionality.
 
-### 3. Provider-Agnostic In-App AI Agents
+</details>
+
+<details open>
+<summary><b>3. Provider-Agnostic In-App AI Agents</b>: an in-app agent that retrieves live data and guides or executes workflows safely</summary>
+<br>
 
 Developing an in-app AI agent capable of understanding user requests, retrieving live application information, and guiding or executing complex workflows.
 
@@ -113,20 +168,24 @@ The architecture is designed to remain independent of any particular LLM provide
 **Security-first execution model:**
 
 | Security tier | Capabilities |
-|||
-| Tier 0 | Read-only queries, such as payment dues and repair status |
-| Tier 1 | Controlled actions through existing application UI components |
-| Tier 2 | Sensitive operations restricted to dedicated application screens |
+|:--|:--|
+| **Tier 0** | Read-only queries, such as payment dues and repair status |
+| **Tier 1** | Controlled actions through existing application UI components |
+| **Tier 2** | Sensitive operations restricted to dedicated application screens |
 
 The agent cannot independently execute sensitive operations such as payments, card addition, or identity verification.
 
 **Tech:** Flutter, Dart, LLM APIs, Tool Calling, Workflow Orchestration, STT, TTS
 
+</details>
 
+---
 
-## 🚀 Selected Production Projects
+## 💼 Selected Production Projects
 
-### 1. KadiPay — Automotive Financing Platform
+<details>
+<summary><b>KadiPay | Automotive Financing Platform</b> 🇸🇦 Saudi-based car service and pay-later financing, rebuilt from React Native in Flutter</summary>
+<br>
 
 A Saudi-based automotive service and financing platform connecting car owners with workshops through repair management and pay-later financing workflows.
 
@@ -140,7 +199,11 @@ A Saudi-based automotive service and financing platform connecting car owners wi
 
 **Tech:** Flutter, Dart, GetX, Firebase, PostHog, REST APIs, Apple Pay
 
-### 2. MDBriefcase — Multi-Business LMS Ecosystem
+</details>
+
+<details>
+<summary><b>MDBriefcase | Multi-Business LMS Ecosystem</b>: one Flutter codebase powering 7 applications across 3 businesses</summary>
+<br>
 
 A learning management ecosystem where a single Flutter codebase powers **7 applications across 3 businesses: MDBC, RXBC, and BMA**.
 
@@ -154,15 +217,22 @@ A learning management ecosystem where a single Flutter codebase powers **7 appli
 
 **Tech:** Flutter, Dart, GetX, Moodle, SCORM, WordPress, WebView
 
-### 3. eCourier — Multi-App Logistics Ecosystem
+</details>
+
+<details>
+<summary><b>eCourier | Multi-App Logistics Ecosystem</b>: four apps for parcel delivery, merchants, agents, and branches</summary>
+<br>
 
 A logistics platform consisting of four applications supporting parcel delivery, merchant operations, agents, and branch management.
 
 **Applications**
-- [eCourier P2P](https://play.google.com/store/apps/details?id=com.ecourier.p2p)
-- [eCourier Merchant](https://play.google.com/store/apps/details?id=com.ecourier.merchant)
-- [eCourier Agent](https://play.google.com/store/apps/details?id=com.ecourier.agent)
-- [eCourier Branch](https://play.google.com/store/apps/details?id=com.ecourier.branch)
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.ecourier.p2p"><img alt="eCourier P2P" src="https://img.shields.io/badge/Google%20Play-eCourier%20P2P-414141?style=flat-square&logo=googleplay&logoColor=white"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ecourier.merchant"><img alt="eCourier Merchant" src="https://img.shields.io/badge/Google%20Play-eCourier%20Merchant-414141?style=flat-square&logo=googleplay&logoColor=white"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ecourier.agent"><img alt="eCourier Agent" src="https://img.shields.io/badge/Google%20Play-eCourier%20Agent-414141?style=flat-square&logo=googleplay&logoColor=white"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.ecourier.branch"><img alt="eCourier Branch" src="https://img.shields.io/badge/Google%20Play-eCourier%20Branch-414141?style=flat-square&logo=googleplay&logoColor=white"></a>
+</p>
 
 **Engineering Highlights**
 - Led Flutter development across four applications.
@@ -173,7 +243,11 @@ A logistics platform consisting of four applications supporting parcel delivery,
 
 **Tech:** Flutter, Dart, REST APIs, Firebase, FCM
 
-### 4. F1tCloud — Multi-Tenant Gym SaaS
+</details>
+
+<details>
+<summary><b>F1tCloud | Multi-Tenant Gym SaaS</b>: per-gym branded member and trainer apps from one codebase</summary>
+<br>
 
 A gym management ecosystem supporting member and trainer applications with customizable branding for individual gyms.
 
@@ -186,7 +260,11 @@ A gym management ecosystem supporting member and trainer applications with custo
 
 **Tech:** Flutter, Dart, Clean Architecture, Flavors, REST APIs, Firebase
 
-### 5. Stallo — Food Delivery & Booking
+</details>
+
+<details>
+<summary><b>Stallo | Food Delivery & Booking</b> 🇫🇮 food ordering and booking for a Finland-based product company</summary>
+<br>
 
 A food ordering and booking application developed for a Finland-based product company.
 
@@ -200,7 +278,11 @@ A food ordering and booking application developed for a Finland-based product co
 
 **Tech:** Flutter, Dart, Clean Architecture, REST APIs, Payments
 
-### 6. Quantum Possibilities — Social Platform
+</details>
+
+<details>
+<summary><b>Quantum Possibilities | Social Platform</b>: community, marketplace, live streaming, and blockchain wallet</summary>
+<br>
 
 A cross-platform social application with community, marketplace, live streaming, and blockchain functionality.
 
@@ -213,7 +295,11 @@ A cross-platform social application with community, marketplace, live streaming,
 
 **Tech:** Flutter, Dart, Firebase, Blockchain, Crypto Wallet
 
-### 7. Sydney Disability Support
+</details>
+
+<details>
+<summary><b>Sydney Disability Support</b> 🇦🇺 NDIS support platform for participants and support workers</summary>
+<br>
 
 An Australian NDIS support platform for participants and support workers.
 
@@ -225,7 +311,11 @@ An Australian NDIS support platform for participants and support workers.
 
 **Tech:** Flutter, Dart, Firebase, Google Places API
 
-### Additional Projects
+</details>
+
+<details>
+<summary><b>Additional Projects</b>: Location Based Tracking, Healthy Harvest, Dairy Farm ERP, Flat Management, XCare</summary>
+<br>
 
 - **Location Based Tracking:** GPS tracking, OpenStreetMap, POI matching, and attendance synchronization in collaboration with Grameenphone.
 - **Healthy Harvest:** Dual-audience e-commerce applications for meat, dairy, and livestock.
@@ -233,15 +323,21 @@ An Australian NDIS support platform for participants and support workers.
 - **Flat Management:** Property administration, billing, maintenance, and financial records.
 - **XCare:** US-based mobile engagement involving IoT integration, communication, and data synchronization.
 
+</details>
 
+---
 
 ## 📦 Open Source & Flutter Packages
 
 I enjoy solving framework-level problems and building reusable tools that make complex Flutter implementations easier.
 
-### 1. [Scroll Atlas](https://pub.dev/packages/scroll_atlas)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<sup>Flutter Package · pub.dev</sup>
+### [Scroll Atlas](https://pub.dev/packages/scroll_atlas)
+
+<a href="https://pub.dev/packages/scroll_atlas"><img alt="pub version" src="https://img.shields.io/pub/v/scroll_atlas?style=flat-square&logo=dart"></a>
 
 A Flutter scrolling toolkit focused on precise index-based navigation across lists and slivers.
 
@@ -257,35 +353,71 @@ A Flutter scrolling toolkit focused on precise index-based navigation across lis
 
 **Tech:** Flutter, Dart, Slivers, Scroll Controllers
 
-### 2. [R Icon Pro](https://pub.dev/packages/r_icon_pro)
+</td>
+<td valign="top" width="50%">
+
+### [R Icon Pro](https://pub.dev/packages/r_icon_pro)
+
+<a href="https://pub.dev/packages/r_icon_pro"><img alt="pub version" src="https://img.shields.io/pub/v/r_icon_pro?style=flat-square&logo=dart"></a>
 
 A Flutter icon package featuring **1,200+ rounded icons**, providing a convenient way to integrate consistent iconography into Flutter applications.
 
+</td>
+</tr>
+</table>
+
+---
 
 ## 🧠 Engineering Beyond Application Development
 
 Some of the engineering areas I particularly enjoy:
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 - Building internal Flutter tooling and custom lint rules.
 - Establishing coding and architectural standards across teams.
 - Optimizing rendering performance and animations.
 - Dart concurrency and isolate-based processing.
+
+</td>
+<td valign="top" width="50%">
+
 - Production observability and crash reporting.
 - Secure storage, token management, and resilient networking.
 - Native platform communication and embedded Flutter modules.
 - Android and iOS release automation.
 
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayhan12&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan12&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan12&theme=transparent&hide_border=true" />
+</p>
+
+---
 
 ## 🤝 Let's Connect
 
 Interested in building something challenging? I'm always open to discussing mobile engineering, architecture, SDK development, AI-powered applications, and interesting product ideas.
 
-- **Portfolio:** [rayhanulislam.space](https://rayhanulislam.space)
-- **LinkedIn:** [Rayhanul Islam](https://www.linkedin.com/in/rayhanul-islam-234256205)
-- **GitHub:** [@Rayhan12](https://github.com/Rayhan12)
-- **Pub.dev:** [Flutter Packages](https://pub.dev/publishers/rayhanulislam.space/packages)
-- **Email:** [rayhanul.mobile.dev@gmail.com](mailto:rayhanul.mobile.dev@gmail.com)
+| | |
+|:--|:--|
+| 🌐 **Portfolio** | [rayhanulislam.space](https://rayhanulislam.space/) |
+| 💼 **LinkedIn** | [Rayhanul Islam](https://www.linkedin.com/in/rayhanul-islam-234256205) |
+| 🐙 **GitHub** | [@Rayhan12](https://github.com/Rayhan12) |
+| 🎯 **Pub.dev** | [Flutter Packages](https://pub.dev/publishers/rayhanulislam.space/packages) |
+| ✉️ **Email** | [rayhanul.mobile.dev@gmail.com](mailto:rayhanul.mobile.dev@gmail.com) |
 
-
-
-*Building products, solving difficult engineering problems, and pushing Flutter beyond the ordinary.*
+<p align="center"><i>Building products, solving difficult engineering problems, and pushing Flutter beyond the ordinary.</i></p>
