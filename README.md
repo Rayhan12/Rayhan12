@@ -14,7 +14,7 @@ Beyond application development, I'm interested in pushing Flutter into more adva
 - 🔭 Currently exploring Flutter Add-to-App, GenUI, and AI-powered mobile agents
 - 🧩 Open-source Flutter package author
 
----
+
 
 ## 🛠️ Technical Expertise
 
@@ -67,7 +67,7 @@ Beyond application development, I'm interested in pushing Flutter into more adva
 - MySQL, PostgreSQL, MongoDB, Firestore
 - Supabase, Figma
 
----
+
 
 ## 🚀 Current Engineering Focus
 
@@ -113,7 +113,7 @@ The architecture is designed to remain independent of any particular LLM provide
 **Security-first execution model:**
 
 | Security tier | Capabilities |
-|---|---|
+|||
 | Tier 0 | Read-only queries, such as payment dues and repair status |
 | Tier 1 | Controlled actions through existing application UI components |
 | Tier 2 | Sensitive operations restricted to dedicated application screens |
@@ -122,7 +122,7 @@ The agent cannot independently execute sensitive operations such as payments, ca
 
 **Tech:** Flutter, Dart, LLM APIs, Tool Calling, Workflow Orchestration, STT, TTS
 
----
+
 
 ## 🚀 Selected Production Projects
 
@@ -233,7 +233,7 @@ An Australian NDIS support platform for participants and support workers.
 - **Flat Management:** Property administration, billing, maintenance, and financial records.
 - **XCare:** US-based mobile engagement involving IoT integration, communication, and data synchronization.
 
----
+
 
 ## 📦 Open Source & Flutter Packages
 
@@ -261,7 +261,6 @@ A Flutter scrolling toolkit focused on precise index-based navigation across lis
 
 A Flutter icon package featuring **1,200+ rounded icons**, providing a convenient way to integrate consistent iconography into Flutter applications.
 
----
 
 ## 🧠 Engineering Beyond Application Development
 
@@ -276,20 +275,6 @@ Some of the engineering areas I particularly enjoy:
 - Native platform communication and embedded Flutter modules.
 - Android and iOS release automation.
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayhan12&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan12&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan12&theme=transparent&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
@@ -301,6 +286,6 @@ Interested in building something challenging? I'm always open to discussing mobi
 - **Pub.dev:** [Flutter Packages](https://pub.dev/publishers/rayhanulislam.space/packages)
 - **Email:** [rayhanul.mobile.dev@gmail.com](mailto:rayhanul.mobile.dev@gmail.com)
 
----
+
 
 *Building products, solving difficult engineering problems, and pushing Flutter beyond the ordinary.*
