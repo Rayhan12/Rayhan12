@@ -395,19 +395,6 @@ Some of the engineering areas I particularly enjoy:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayhan12&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan12&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan12&theme=transparent&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 Interested in building something challenging? I'm always open to discussing mobile engineering, architecture, SDK development, AI-powered applications, and interesting product ideas.
